@@ -1,5 +1,5 @@
 '''
-plot the vol surface using free delayed quote data from CBOE
+plot the BSM implied vol surface using free delayed quote data from CBOE
 '''
 # from pandas_datareader.data import Options
 from pandas import read_csv
