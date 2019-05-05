@@ -1,3 +1,6 @@
+'''
+plot the vol surface using free delayed quote data from CBOE
+'''
 # from pandas_datareader.data import Options
 from pandas import read_csv
 from dateutil.parser import parse
